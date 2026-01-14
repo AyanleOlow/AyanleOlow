@@ -1,61 +1,51 @@
-# Hi, I’m Ayanle 
+# Hey there, I'm Ayanle 👋
 
-I’m an **IT student** from Norway who loves building and learning through projects.  
-I’m especially interested in **Linux**, **homelabs**, and **web development**.
-
-Right now I’m focused on improving my frontend skills and building real projects that I can use to learn and grow.
+**IT student in Norway** 🇳🇴  
+I enjoy building projects and learning through practice. I'm mainly focused on **web development** and creating websites, games and useful tools.
 
 ---
 
-## What I’m working on
-
-- Building web projects (games, tools, websites)
-- Learning Linux + server basics (SSH, Docker, self-hosting)
-- Improving JavaScript skills and modern web development
-- Preparing for **praksis / lærlingplass** in IT
+## 🚀 What I'm doing now
+- Improving **frontend** skills (HTML, CSS, JavaScript)
+- Learning **React / Next.js** step by step
+- Building projects and sharing them on GitHub
 
 ---
 
-## Interests
-
-- Linux & open source
-- Homelabs / self-hosting
-- Web development (HTML, CSS, JavaScript)
-- Frameworks (React, Next.js)
-- Building projects for learning + fun
-- Automation and DevOps (learning)
+## 🧠 Interests
+- Web development & UI
+- Frontend projects and games
+- Open source & learning new tech
 
 ---
 
-## Tech & Tools
 
-- **Languages:** JavaScript, HTML, CSS (learning more every day)
-- **OS:** Ubuntu (daily use)
-- **Tools:** Git, GitHub, VS Code
-- **Other:** basic server setup, SSH, Docker (learning)
+
+## Languages & Frameworks
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+## Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## Goals
-
-- Become strong in IT by building and documenting projects
-- Get a good praksis/lærlingplass and gain real experience
-- Build useful software (websites, apps, games) and improve step-by-step
-
----
-
-## Links
-
+## 🔗 Links
 - GitHub: https://github.com/AyanleOlow  
-- LinkedIn: https://www.linkedin.com/in/ayanleolow-ab4862359
+- LinkedIn: https://www.linkedin.com/in/ayanleolow-ab4862359  
 
 ---
 
-## Contact
-
-If you're a company looking for a motivated IT student for **praksis/lærling**, feel free to contact me!
-
-
-```Email 
- ayanleolow08@gmail.com
-
+## 📫 Contact
+```txt
+Email: ayanleolow08@gmail.com
