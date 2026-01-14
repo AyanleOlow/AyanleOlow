@@ -1,18 +1,18 @@
-# Hey there, I'm Ayanle 👋
+# Hey there, I'm Ayanle 
 
-**IT student in Norway** 🇳🇴  
+**IT student in Norway** 
 I enjoy building projects and learning through practice. I'm mainly focused on **web development** and creating websites, games and useful tools.
 
 ---
 
-## 🚀 What I'm doing now
+## What I'm doing now
 - Improving **frontend** skills (HTML, CSS, JavaScript)
 - Learning **React / Next.js** step by step
 - Building projects and sharing them on GitHub
 
 ---
 
-## 🧠 Interests
+## Interests
 - Web development & UI
 - Frontend projects and games
 - Open source & learning new tech
