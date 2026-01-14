@@ -39,12 +39,3 @@ I enjoy building projects and learning through practice. I'm mainly focused on *
 
 ---
 
-## 🔗 Links
-- GitHub: https://github.com/AyanleOlow  
-- LinkedIn: https://www.linkedin.com/in/ayanleolow-ab4862359  
-
----
-
-## 📫 Contact
-```txt
-Email: ayanleolow08@gmail.com
